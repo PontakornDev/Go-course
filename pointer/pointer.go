@@ -16,6 +16,6 @@ func main() {
 	zeroValue(i)
 	fmt.Println("i value form zero function zerovalue = ", i)
 	zeroPointer(&i)
-	fmt.Println("i address form zero function zeroPointer = ", &i)
+	fmt.Println("i address form zero function zeroPointer = ", i)
 
 }
