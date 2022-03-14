@@ -1,5 +1,5 @@
 **For Beginner Golang**   
-**How to Install Golang to OS* ** 
+**How to Install Golang to OS** 
 dowload: https://go.dev/dl/   
 **#How to run project **  
 go run main.go // you can entry to folder and run project in folder name go run *.go   
